@@ -12,7 +12,7 @@ from CSV_to_Dictionary import csv_to_dictionary
 company = 'TCEHY' # for testing
 companies_L1 = ['BABA','TCEHY','PLTR','HD','WLTW','ZM','SNPS','GOOG','ADBE','KO','NVDA','BRKB','AMD'] # tracking list
 years = 5
-APIkey = 'b0ce04222159c6c398e5a951393daadd'
+APIkey = ''
 path = './Financial/'
 
 # Grep data from FMP, save data under 'path'
