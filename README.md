@@ -13,7 +13,7 @@ csv_to_dictionary() function is to convert csv to list of dictionary.
 
 run main.py to grep selected data.
 
-#DCF Modeling
+# DCF Modeling
 DCF_Modeling.xlsx is where the magic happens.
 
 Copy selected data to blue slots in DCF_Modeling.xlsx
