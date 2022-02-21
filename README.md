@@ -12,6 +12,8 @@ Run this function whenever you need update stock financial data.
 csv_to_dictionary() function is to convert csv to list of dictionary.
 
 DCF_Modeling.xlsx is where the magic happens.
+
 Copy selected data to blue slot in DCF_Modeling.xlsx
 Input your assumptions according to your understanding on the business of the company.
+
 Then it will do all the magic for you.
