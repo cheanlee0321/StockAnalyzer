@@ -4,8 +4,9 @@ Stock Analyzer consists of two parts, data processing python script and DCF_Mode
 # Data processing
 The python script is for requesting stock financial data through financialmodelingprep(FMP) API and data processing.
 
-FMP API document:
-https://site.financialmodelingprep.com/developer/docs
+FMP API document: https://site.financialmodelingprep.com/developer/docs
+
+For more usage example: https://youtu.be/ZAAuGEVJsH8 
 
 APIkey in main.py is empty, put your API key into APIkey as a string to launch the script.
 
@@ -15,9 +16,7 @@ Run this function whenever you need update stock financial data.
 
 csv_to_dictionary(): convert csv to list of dictionary.
 
-run main.py to grep selected data.
-
-Watch https://youtu.be/ZAAuGEVJsH8 for more usage example 
+Run main.py to get selected data for DCF modeling.
 
 # DCF Modeling
 DCF_Modeling.xlsx is for DCF model calculation
