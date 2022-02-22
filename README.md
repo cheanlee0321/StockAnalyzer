@@ -1,5 +1,5 @@
 # Stock Analyzer
-Stock Analyzer consists of two parts, data processing python script and DCF Modeling xlsx sheet.
+Stock Analyzer consists of two parts, data processing python script and DCF_Modeling.xlsx sheet.
 
 # Data processing
 The python script is for requesting stock financial data through financialmodelingprep(FMP) API and data processing.
