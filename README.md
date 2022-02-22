@@ -31,4 +31,4 @@ DCF modeling tutorial
 https://youtu.be/LXGSeJsUAaw
 
 
-**The Data processing and DCF modeling is base on fiscal year data. you may change quarterly data according to your need**
+**The Data processing and DCF modeling is base on fiscal year data. You may change quarterly data according to your need**
