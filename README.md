@@ -8,15 +8,15 @@ FMP API document: https://site.financialmodelingprep.com/developer/docs
 
 For more usage example: https://youtu.be/ZAAuGEVJsH8 
 
-APIkey in main.py is empty, put your API key into APIkey as a string to launch the script.
+APIkey in Main.py is empty, put your API key into APIkey as a string to launch the script.
 
 grep_data_from_FMP(): 
 Requesting data from API then save it in csv format.
 Run this function whenever you need update stock financial data.
 
-csv_to_dictionary(): convert csv to list of dictionary.
+csv_to_dictionary(): Convert csv to list of dictionary.
 
-Run main.py to get selected data for DCF modeling.
+Run Main.py to get selected data for DCF modeling.
 
 # DCF Modeling
 DCF_Modeling.xlsx is for DCF model calculation
