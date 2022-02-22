@@ -16,7 +16,7 @@ APIkey = ''
 path = './Financial/'
 
 # Grep data from FMP, save data under 'path'
-#grep_data_from_FMP(companies_L1, 5, APIkey, path)
+grep_data_from_FMP(companies_L1, 5, APIkey, path)
 
 # Read csv files and convert it to list of dictionary
 income_data = csv_to_dictionary(path+company+'_income.csv', years, 1)
