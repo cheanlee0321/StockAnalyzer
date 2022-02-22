@@ -18,6 +18,9 @@ csv_to_dictionary(): Convert csv to list of dictionary.
 
 Run Main.py to get selected data for DCF modeling.
 
+Selected data includes:
+Revenues/EBITDA/NetIncome/FCFPerShare/SharesOutstanding/CashAndCashEquivalents/TotalDebt/SharePrice
+
 # DCF Modeling
 DCF_Modeling.xlsx is for DCF model calculation
 
