@@ -2,7 +2,7 @@
 import requests
 import csv
 
-def grep_data_from_FMP(companies, years, APIkey,path):
+def grep_data_from_FMP(companies, years, APIkey, path):
 
 # This section grep original data in csv format and save it to csv file under Financial folder
 
