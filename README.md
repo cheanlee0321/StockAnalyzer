@@ -8,7 +8,7 @@ FMP API document: https://site.financialmodelingprep.com/developer/docs
 
 For more usage example: https://youtu.be/ZAAuGEVJsH8 
 
-APIkey in Main.py is empty, put your API key into APIkey as a string to launch the script.
+APIkey in Main.py is empty. Put your API key into APIkey as a string to launch the script.
 
 grep_data_from_FMP(): 
 Requesting data from API then save it in csv format.
