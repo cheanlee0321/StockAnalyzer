@@ -1,5 +1,6 @@
 # This script is using financialmodelingprep API to grep company financial data.
 # https://site.financialmodelingprep.com/developer/docs
+# Register an account to get free API Key
 
 import requests
 import csv
