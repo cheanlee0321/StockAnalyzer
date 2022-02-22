@@ -10,7 +10,7 @@ https://site.financialmodelingprep.com/developer/docs
 APIkey in main.py is empty, put your API key into APIkey as a string to launch the script.
 
 grep_data_from_FMP(): 
-grep data frmo API then save it in csv format.
+Requesting data from API then save it in csv format.
 Run this function whenever you need update stock financial data.
 
 csv_to_dictionary(): convert csv to list of dictionary.
