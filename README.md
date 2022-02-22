@@ -4,7 +4,7 @@ Stock Analyzer consists of two parts, data processing python script and DCF_Mode
 # Data processing
 The python script is for requesting stock financial data through financialmodelingprep(FMP) API and data processing.
 
-For FMP API:
+FMP API document:
 https://site.financialmodelingprep.com/developer/docs
 
 APIkey in main.py is empty, put your API key into APIkey as a string to launch the script.
